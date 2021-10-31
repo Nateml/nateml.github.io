@@ -775,6 +775,15 @@ Some disciplines to be included in this MOC:
     </item>
     
     <item>
+      <title>Mechanisms of Reproductive Isolation</title>
+      <link>https://nateml.github.io/Mechanisms-of-Reproductive-Isolation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Mechanisms-of-Reproductive-Isolation/</guid>
+      <description>Mechanisms of Reproductive Isolation  Different breeding times. Courtship behavior. Different plant pollinators. Infertile offspring.  References     tags: #biology</description>
+    </item>
+    
+    <item>
       <title>Microevolution</title>
       <link>https://nateml.github.io/Microevolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -833,7 +842,7 @@ Think of it like this: We keep drawing tangents to the graph at $f(x_n)$ . After
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nateml.github.io/Peripatric-Speciation/</guid>
-      <description>Peripatric Speciation A type of speciation which refers to when a small group of organisms in a species seperate from the original group of species, typically due to a physical/geographical boundary such as a the division of a landform, such that the new group cannot breed with the original species. Peripatric speciation is very similar to allopatric speciation .
+      <description>Peripatric Speciation A type of Speciation which refers to when a small group of organisms in a species seperate from the original group of species, typically due to a physical/geographical boundary such as a the division of a landform, such that the new group cannot breed with the original species. Peripatric speciation is very similar to allopatric speciation .
 Distinguishing features:
  small size of the isolated population strong selection pressures on isolated population due to colonization of new environment noticeable effects of genetic drift on isolated population  References     tags: #evolution</description>
     </item>
@@ -883,8 +892,17 @@ References     tags: #evolution</description>
       
       <guid>https://nateml.github.io/Speciation/</guid>
       <description>Speciation Refers to how new species are created. Directly linked to Evolution Theory .
-Also see Types of Speciation .
-References     tags: #untagged</description>
+See Types of Speciation .
+Since species are defined as a group of organisms which breed with one another, any form of division or isolation which causes one group of organisms to not breed with another causes speciation. Generally speciation occurs when there is a physical or geographical division between a group of organisms of the same species ( Allopatric Speciation ).</description>
+    </item>
+    
+    <item>
+      <title>Stages of Speciation</title>
+      <link>https://nateml.github.io/Stages-of-Speciation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Stages-of-Speciation/</guid>
+      <description>Stages of Speciation  Division of habitat  Organisms start living in different habitats (e.g. trees vs ground)   Division of food resources  As competition for food increases, groups of organisms explore different feeding niches. These organisms adapt to the food source. ( Natural Selection )   Division by sexual selection  Organisms begin to develop different mating behaviors, leading to reproductive isolation .    References     tags: #evolution</description>
     </item>
     
     <item>
@@ -988,7 +1006,7 @@ References     tags: #evolution</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nateml.github.io/What-led-Alfred-Russel-Wallace-to-his-theories/</guid>
-      <description>What led Alfred Russel Wallace to his theories  Alfred Russel Wallace became puzzled over the differences in organisms living in the north-western and south-eastern regions of the Malay archipelago, despite their very similar climates. He concluded that geographical isolation resulted in speciation. Wallace came up with Natural Selection as a possible mechanism for this speciation. Him and Charles Darwin , who independently came up with the mechanism of natural selection, collaborated and published a joint paper.</description>
+      <description>What led Alfred Russel Wallace to his theories  Alfred Russel Wallace became puzzled over the differences in organisms living in the north-western and south-eastern regions of the Malay archipelago, despite their very similar climates. He concluded that geographical isolation resulted in Speciation . Wallace came up with Natural Selection as a possible mechanism for this speciation. Him and Charles Darwin , who independently came up with the mechanism of natural selection, collaborated and published a joint paper.</description>
     </item>
     
     <item>

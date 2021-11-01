@@ -325,6 +325,16 @@ Interesting reading   The Unicellular Ancestry of Animal Development   Reference
     </item>
     
     <item>
+      <title>Central Dogma of Molecular Biology</title>
+      <link>https://nateml.github.io/Central-Dogma-of-Molecular-Biology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Central-Dogma-of-Molecular-Biology/</guid>
+      <description>Central Dogma of Molecular Biology The central dogma explains how genetic information is turned into functional protein. First proposed by Francis Crick in 1958.
+DNA turns into RNA which is used to make a function protein. RNA acts as a messenger in this process. The process by which DNA is converted to a protein is called gene expression, which consists of two key stages: transcription and translation. DNA is transcribed into RNA which travels outside of the nucleus and gets &amp;ldquo;translated&amp;rdquo; by ribosomes into amino acids which form proteins.</description>
+    </item>
+    
+    <item>
       <title>Characteristics of Primates</title>
       <link>https://nateml.github.io/Characteristics-of-Primates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -372,7 +382,7 @@ References     tags: #evolution</description>
       
       <guid>https://nateml.github.io/Common-Ancestor-of-the-Homo-Genus/</guid>
       <description>Common Ancestor of the Homo Genus Could be the Austrolopithicus sediba. See Australopithecus Genus .
-References     tags: #untagged</description>
+  Homo (genus) References     tags: #untagged</description>
     </item>
     
     <item>
@@ -538,6 +548,16 @@ References     tags: #untagged</description>
     </item>
     
     <item>
+      <title>DNA Transcription</title>
+      <link>https://nateml.github.io/DNA-Transcription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/DNA-Transcription/</guid>
+      <description>DNA Transcription First stage of Protein Synthesis and the Central Dogma of Molecular Biology which sees DNA being &amp;ldquo;transcribed&amp;rdquo; into a complimentary strand of RNA. The enzyme Helicase &amp;ldquo;unzips&amp;rdquo; the DNA strand and then RNA Polymerase synthesizes a complimentary RNA strand.
+References     tags: #untagged</description>
+    </item>
+    
+    <item>
       <title>Does consciousness arise when the brain&#39;s simulation includes a model of itself</title>
       <link>https://nateml.github.io/Does-consciousness-arise-when-the-brains-simulation-includes-a-model-of-itself/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -643,7 +663,18 @@ Evolution in the biological context refers to the change in species over time. T
       
       <guid>https://nateml.github.io/Evolution-MOC/</guid>
       <description>Evolution MOC So things don&amp;rsquo;t get lost. No particular order. All notes dumped here (not ideal).
-  Evolution Theory   Speciation   Stages of Speciation   Types of Speciation   Peripatric Speciation   Allopatric Speciation   Parapatric Speciation   Sympatric Speciation   Hypothesis Vs Theory   Natural Selection   Mechanisms of Reproductive Isolation   What led Alfred Russel Wallace to his theories   The Evolution of Evolution   Punctuated Equilibrium   Phyletic Gradualism   Macro-evolutionary Trends   Macroevolution   Extinction   Adaptive Radiation   Cladogenesis   Anagenesis   Vestigial Organs   Vestigial Organs as Proof of Evolution   Evidence for the Theory of Evolution   Embryology as Proof of Evolution   Comparative Anatomy as Proof of Evolution   Divergent Evolution   Convergent Evolution   Genetic Evidence for Evolution   Darwin&amp;rsquo;s Mockingbird Observations   What led Darwin to his theories   Charles Darwin   Biogeographical Evidence for Evolution   Sympatric Speciation   Genetic Drift    tags: #moc</description>
+  Evolution Theory   Speciation   Stages of Speciation   Types of Speciation   Peripatric Speciation   Allopatric Speciation   Parapatric Speciation   Sympatric Speciation   Hypothesis Vs Theory   Natural Selection   Mechanisms of Reproductive Isolation   What led Alfred Russel Wallace to his theories   The Evolution of Evolution   Punctuated Equilibrium   Phyletic Gradualism   Macro-evolutionary Trends   Macroevolution   Extinction   Adaptive Radiation   Cladogenesis   Anagenesis   Vestigial Organs   Vestigial Organs as Proof of Evolution   Evidence for the Theory of Evolution   Embryology as Proof of Evolution   Comparative Anatomy as Proof of Evolution   Divergent Evolution   Convergent Evolution   Genetic Evidence for Evolution   Darwin&amp;rsquo;s Mockingbird Observations   What led Darwin to his theories   Charles Darwin   Biogeographical Evidence for Evolution   Sympatric Speciation   Genetic Drift   Common Ancestor of the Homo Genus    tags: #moc</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Stable Strategy (ESS)</title>
+      <link>https://nateml.github.io/Evolutionary-Stable-Strategy-ESS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Evolutionary-Stable-Strategy-ESS/</guid>
+      <description>Evolutionary Stable Strategy (ESS) An evolutionary stable strategy (ESS) is a strategy or state existing in a group of organisms which is considered evolutionary stable, that is to say that if there were a deviation from the strategy/state evolution would over time counteract this change until the strategy is stable again.
+An ESS can be explained using [[Game Theory]].
+References     tags: #untagged</description>
     </item>
     
     <item>
@@ -714,7 +745,17 @@ Sequences of chromosomal and mitochondrial DNA can be compared between species t
       
       <guid>https://nateml.github.io/Genetics/</guid>
       <description>Genetics The study of heredity. The study of genes and how traits are inherited. Came into existence as an area of study with Gregor Mendal in the mid-19th century.
-References     tags: #genetics</description>
+ Protein Synthesis References     tags: #genetics #MOC</description>
+    </item>
+    
+    <item>
+      <title>Helicase</title>
+      <link>https://nateml.github.io/Helicase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Helicase/</guid>
+      <description>Helicase A helicase is an enzyme which is vital in DNA Transcription because it is separates double-stranded DNA into two single strands.
+References     tags: #untagged</description>
     </item>
     
     <item>
@@ -756,7 +797,7 @@ References     tags: #untagged</description>
       <guid>https://nateml.github.io/Homo-genus/</guid>
       <description>Homo (genus) The genus to which modern humans ( Homo Sapiens ) belong. In the past, many species of Homo existed, however all but the Homo Sapiens have become extinct.
 The common ancestor of the Homo genus is thought to be a member of the Australopithecus genus , which then might have evolved into homo erectus. See Out of Africa Hypothesis .
-Taxonomy:  Family: Hominidae  Tribe: [Hominini]  See Taxonomic Classification System References     tags: #untagged</description>
+Taxonomy:  Family: Hominidae  Tribe: Hominini   See Taxonomic Classification System References     tags: #untagged</description>
     </item>
     
     <item>
@@ -841,6 +882,15 @@ Examples Simplify $\sqrt{-18}$
 \sqrt{-18} &amp;amp;= i\sqrt{18} \
 &amp;amp;= i \times \sqrt{9 \times 2} \
 &amp;amp;= i \times 3 \times \sqrt{2} \</description>
+    </item>
+    
+    <item>
+      <title>Inhibin</title>
+      <link>https://nateml.github.io/Inhibin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Inhibin/</guid>
+      <description>Inhibin References     tags: #untaggednh</description>
     </item>
     
     <item>
@@ -1121,6 +1171,16 @@ References     tags: #biology</description>
     </item>
     
     <item>
+      <title>Protein Synthesis</title>
+      <link>https://nateml.github.io/Protein-Synthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Protein-Synthesis/</guid>
+      <description>Protein Synthesis Protein synthesis is the biological process responsible for creating protein molecules. Key to the Central Dogma of Molecular Biology .
+Important structures   Helicase   RNA Polymerase   DNA Polymerase   Ribosomes   Amino Acids   Types of RNA   Stages   DNA Transcription   RNA Translation   References     tags: #untagged</description>
+    </item>
+    
+    <item>
       <title>Public Response to Evolution and Natural Selection</title>
       <link>https://nateml.github.io/Public-Response-to-Evolution-and-Natural-Selection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1136,6 +1196,16 @@ References     tags: #biology</description>
       
       <guid>https://nateml.github.io/Punctuated-Equilibrium/</guid>
       <description>Punctuated Equilibrium Developed by Stephen Jay Gould , this model of evolution opposes gradualism and states that speciation occurs in a relatively short time span, which is followed by long periods of equilibrium. Fossil evidence supports this model: Gould found fossils of species which did not change for millions of years, which would then be followed or preceded by (punctuated by) periods of time where fossils exhibited drastic change. The absence of transitional fossils (missing links) supports this model.</description>
+    </item>
+    
+    <item>
+      <title>RNA Translation</title>
+      <link>https://nateml.github.io/RNA-Translation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/RNA-Translation/</guid>
+      <description>RNA Translation Second step in Protein Synthesis which sees mRNA being &amp;ldquo;decoded&amp;rdquo; or translated into a series of amino acids, completing the Central Dogma of Molecular Biology .
+mRNA is translated in a ribosome by tRNA, which has an anti-codon at one end and an amino acid on the other end. The anti-codon identifies the amino acid that belongs to it. Since anti-codons compliment with the codons on mRNA, the mRNA can be read and the corresponding amino acids can form a chain as each codon matches up with an anti-codon on the tRNA and thus the amino acid it codes for.</description>
     </item>
     
     <item>
@@ -1176,6 +1246,17 @@ References     tags: #untagged</description>
       <guid>https://nateml.github.io/Structure-and-Function-of-Sperm/</guid>
       <description>Structure and Function of Sperm Sperm need to be able to fertilize an ovum. They have mitochondria in their flagellum (tail) to provide energy for &amp;ldquo;swimming&amp;rdquo;. Only the head of the sperm will enter the ovum.
 References     tags: #untagged</description>
+    </item>
+    
+    <item>
+      <title>Structure of RNA</title>
+      <link>https://nateml.github.io/Structure-of-RNA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Structure-of-RNA/</guid>
+      <description>Structure of RNA RNA is single stranded with a sugar phosphate backbone. RNA, much like DNA, consists of nucleotides which are comprised of one of four nitrogenous bases, a five-carbon sugar and a phosphate group. However, the bases in RNA slightly differ from the bases in DNA.
+Nitrogenous bases found in RNA:
+ Adenine Uracil (instead of thymine) Guanine Cytosine  Adenine and uracil are complimentary. Guanine and cytosine are complimentary.</description>
     </item>
     
     <item>
@@ -1276,6 +1357,17 @@ Fleming&amp;rsquo;s left-hand motor rule  Forefinger points in direction of the 
       <guid>https://nateml.github.io/The-Primate-Order/</guid>
       <description>The Primate Order A taxonomic order of the Mammalia class which inclues humans, apes, baboons, monkeys, etc.
 References     tags: #biology</description>
+    </item>
+    
+    <item>
+      <title>Types of RNA</title>
+      <link>https://nateml.github.io/Types-of-RNA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Types-of-RNA/</guid>
+      <description>Types of RNA Multiple types of RNA exist which serve different functions.
+mRNA Synthesised during protein synthesis . Corresponds to a section of DNA and travels out of the nucleus to be read by a ribosome and translated into an amino acid or protein. Contains codons which are groups of 3 DNA bases.
+tRNA Small RNA molecules which transfer free amino acids in the cytoplasm of a cell to a ribosome for translation to take place.</description>
     </item>
     
     <item>

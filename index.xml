@@ -1061,7 +1061,6 @@ Natural selection relies on genetic variation between organisms (see Importance 
       
       <guid>https://nateml.github.io/Newton-Raphson-Method/</guid>
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Newton-Raphson Method Kinda cool. Method to find the root of a function.
-asdasdhjkashdkahskdhaksdhkasdasd.
 $$x_n+1 = x_n - \frac{f(x_n)}{f&#39;{x_n}}$$
 $x_0$ should be an initial approximation of the desired root. Iterating the above will return the value of the root closest to the initial approximation.
 Think of it like this: We keep drawing tangents to the graph at $f(x_n)$ . After every iteration, $x_n$ becomes the x intercept of the tangent.</description>

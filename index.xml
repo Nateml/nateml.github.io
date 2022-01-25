@@ -1061,6 +1061,7 @@ Natural selection relies on genetic variation between organisms (see Importance 
       
       <guid>https://nateml.github.io/Newton-Raphson-Method/</guid>
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Newton-Raphson Method Kinda cool. Method to find the root of a function.
+asdasdhjkashdkahskdhaksdhkasdasd.
 $$x_n+1 = x_n - \frac{f(x_n)}{f&#39;{x_n}}$$
 $x_0$ should be an initial approximation of the desired root. Iterating the above will return the value of the root closest to the initial approximation.
 Think of it like this: We keep drawing tangents to the graph at $f(x_n)$ . After every iteration, $x_n$ becomes the x intercept of the tangent.</description>
@@ -1199,6 +1200,16 @@ Important structures   Helicase   RNA Polymerase   DNA Polymerase   Ribosomes   
     </item>
     
     <item>
+      <title>Restructure Problems with new Information</title>
+      <link>https://nateml.github.io/Restructure-Problems-with-new-Information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Restructure-Problems-with-new-Information/</guid>
+      <description>Restructure Problems with new Information When trying to solve a problem, particularly a mathematical one, it is often ideal to find new information from what you know already, and then restructure the problem around this new information. Perspective is very important. If you can think about a problem in a new way, often it can became much simpler to solve.
+References   3Blue1Brown video on calculus    tags: #idea</description>
+    </item>
+    
+    <item>
       <title>RNA Translation</title>
       <link>https://nateml.github.io/RNA-Translation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1206,6 +1217,16 @@ Important structures   Helicase   RNA Polymerase   DNA Polymerase   Ribosomes   
       <guid>https://nateml.github.io/RNA-Translation/</guid>
       <description>RNA Translation Second step in Protein Synthesis which sees mRNA being &amp;ldquo;decoded&amp;rdquo; or translated into a series of amino acids, completing the Central Dogma of Molecular Biology .
 mRNA is translated in a ribosome by tRNA, which has an anti-codon at one end and an amino acid on the other end. The anti-codon identifies the amino acid that belongs to it. Since anti-codons compliment with the codons on mRNA, the mRNA can be read and the corresponding amino acids can form a chain as each codon matches up with an anti-codon on the tRNA and thus the amino acid it codes for.</description>
+    </item>
+    
+    <item>
+      <title>Set Default GPU with Optimus Manaegr</title>
+      <link>https://nateml.github.io/Set-Default-GPU-with-Optimus-Manaegr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Set-Default-GPU-with-Optimus-Manaegr/</guid>
+      <description>Set Default GPU with Optimus Manaegr  You can also specify which GPU you want to be used by default when the system boots, by setting startup_mode in the [configuration file]optimus-manager.conf at /etc/optimus-manager/optimus-manager.conf.
+ References   Askannz/optimus-manager    tags: #guide</description>
     </item>
     
     <item>
@@ -1389,6 +1410,15 @@ tRNA Small RNA molecules which transfer free amino acids in the cytoplasm of a c
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Unintuitive questions on motion (heuristics) This note should be used to explain and develop heuristics to be able to quickly answer questions without having to resort to equations of motion.
 The aim of this note is to create an intuition for motion through analysis of cases I find interesting or that are initially unintuitive.
 An object thrown upwards vs an object thrown downwards Extract from an IEB past paper:</description>
+    </item>
+    
+    <item>
+      <title>University List</title>
+      <link>https://nateml.github.io/University-List/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/University-List/</guid>
+      <description>University List  Delft  Eindhoven  University of Oslo   tags: #untagged</description>
     </item>
     
     <item>

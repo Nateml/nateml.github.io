@@ -172,10 +172,7 @@ Drawing 1  {&amp;#34;type&amp;#34;:&amp;#34;excalidraw&amp;#34;,&amp;#34;version
  $|x| = \pm x$
   $|x| = \sqrt{x^{2}}$
  Example:
- $$\begin{align} |2x+5| &amp;amp;= 11 \
-2x + 5 &amp;amp;= 11 \
-x &amp;amp;= 3 \
-&amp;amp;\textrm{or} \</description>
+ $$\begin{align} |2x+5| &amp;amp;= 11 \ 2x + 5 &amp;amp;= 11 \ x &amp;amp;= 3 \ &amp;amp;\textrm{or} \ -2x-5 &amp;amp;= 11 \ x &amp;amp;= -8 \end{align}$$</description>
     </item>
     
     <item>
@@ -414,8 +411,7 @@ Analogous structures are common structures between species which have independen
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Complex Numbers Standard-form $a + bi$
  $a$ is the real part, while $b$ is imaginary part(see Imaginary Numbers ).  Imaginary part is the coefficient of $i$.
 Can be treated as a &amp;ldquo;single number&amp;rdquo; containing two parts
-Examples  $$z = 5 + 3i$$ $$\begin{align} Re(Z) &amp;amp;= 5 \
-Im(Z) &amp;amp;= 3 \end{align}$$
+Examples  $$z = 5 + 3i$$ $$\begin{align} Re(Z) &amp;amp;= 5 \ Im(Z) &amp;amp;= 3 \end{align}$$
  Above cannot be simplified further.
 Conjugate of above:
  $$\overline{z} = a - bi$$</description>
@@ -429,9 +425,7 @@ Conjugate of above:
       <guid>https://nateml.github.io/Continuity-Differentiability/</guid>
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Continuity &amp;amp; Differentiability If f is differentiable at $x=c$, then f is continuous at $x=c$ If f is not continuous at $x=c$, then f is not differentiable at $x=c$
 Related concepts:
-  Derivatives   A definition of continuity $\begin{align} &amp;amp;f(c) = \lim_{x\to c}f(x) \
-&amp;amp;\textrm{and} \
-&amp;amp;\lim_{x\to c^-}f(x) = \lim_{x\to c^+}f(x) \end{align}$
+  Derivatives   A definition of continuity $\begin{align} &amp;amp;f(c) = \lim_{x\to c}f(x) \ &amp;amp;\textrm{and} \ &amp;amp;\lim_{x\to c^-}f(x) = \lim_{x\to c^+}f(x) \end{align}$
  Limit of function must be the same when approaching from both the negative and positive directions.</description>
     </item>
     
@@ -873,15 +867,10 @@ References     tags: #untagged</description>
       <description>&amp;lt;&amp;ndash; 011 Maths &amp;amp; Science MOC Imaginary Numbers The imaginary unit: $$i = \sqrt{-1}$$
 Therefore: $$i^{2}= -1$$
 REMEMBER: $i^{2}$ &amp;ndash;&amp;gt; $-1$
-Examples  $$\begin{align} (3i)^{2} &amp;amp;= 3^2i^{2}\
-&amp;amp;= 9(-1) \
-&amp;amp;= -9 \end{align}$$
+Examples  $$\begin{align} (3i)^{2} &amp;amp;= 3^2i^{2}\ &amp;amp;= 9(-1) \ &amp;amp;= -9 \end{align}$$
  Simplifying pure imaginary numbers $$\textrm{For } a &amp;gt; 0, \sqrt{-a} = i\sqrt{a}$$
 Examples Simplify $\sqrt{-18}$
- $$\begin{align} a &amp;amp;&amp;gt; 0 \
-\sqrt{-18} &amp;amp;= i\sqrt{18} \
-&amp;amp;= i \times \sqrt{9 \times 2} \
-&amp;amp;= i \times 3 \times \sqrt{2} \</description>
+ $$\begin{align} a &amp;amp;&amp;gt; 0 \ \sqrt{-18} &amp;amp;= i\sqrt{18} \ &amp;amp;= i \times \sqrt{9 \times 2} \ &amp;amp;= i \times 3 \times \sqrt{2} \ &amp;amp;= 3i\sqrt{2} \end{align}$$</description>
     </item>
     
     <item>
@@ -949,8 +938,7 @@ Example: According to Lamarckism, the long neck and legs of a giraffes were the 
 $x \times y$ \times #multiply #multiplication #times
 $\frac{x}{y}$ \frac{x}{y} #division #fraction #divide $x \div y$ \div #division #divide
 $\overline{x}$ \overline{x} #overline #vinculum
-$\begin{align} y + x &amp;amp;= 1 \
-y &amp;amp;= 1 -x \end{align}$ \begin{align} &amp;hellip; \end{align} #multi-line #align
+$\begin{align} y + x &amp;amp;= 1 \ y &amp;amp;= 1 -x \end{align}$ \begin{align} &amp;hellip; \end{align} #multi-line #align
 $\textrm{This is how to write text.}$ \textrm{This is how to write text.} #text
 $x = \pm y$ \pm #plus_minus</description>
     </item>
@@ -1076,6 +1064,16 @@ Think of it like this: We keep drawing tangents to the graph at $f(x_n)$ . After
 Starts with 1 primary oocyte (diploid) which divides into secondary oocyte and a first polar body. Secondary oocyte then divides into a ootid (haploid). The polar bodies cannot be fertilised, only the ootid.
 Part of The Human Reproductive System .
 References     tags: #untagged</description>
+    </item>
+    
+    <item>
+      <title>Oral creatine supplementation improves brain performance</title>
+      <link>https://nateml.github.io/Articles/Oral-creatine-supplementation-improves-brain-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nateml.github.io/Articles/Oral-creatine-supplementation-improves-brain-performance/</guid>
+      <description>Oral creatine supplementation improves brain performance Study shows significantly improved performance in cognitive tests (Raven&amp;rsquo;s Advanced Program Matrices (RAPM) and Wechsler Auditory backward digit span (BDS)) after 6 week periods of creatine supplementation ($5\ g.d^{-1}$)
+Note that the subjects were vegetarian or vegan and thus likely had lower natural levels of creatine to begin with, making the effects of creatine potentially more drastic than if the subjects were red meat eaters.</description>
     </item>
     
     <item>
